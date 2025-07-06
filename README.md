@@ -36,8 +36,3 @@ This is a 2D platformer game developed using **Unreal Engine 5**, featuring clas
 - **Blueprint Visual Scripting** – no C++ required  
 - **Flipbook Animations** – powered by PaperZD for smooth transitions
 
-## 🚀 Getting Started
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/2D-Platformer-UE5.git
